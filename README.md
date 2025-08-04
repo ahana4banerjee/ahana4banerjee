@@ -64,7 +64,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahana-4-banerjee)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:banerjeeahana4@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-121013?style=flat&logo=vercel&logoColor=white)](https://portfolio-website-seven-roan-36.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-121013?style=flat&logo=vercel&logoColor=white)](https://portfolio-website-seven-roan-36.vercel.app/)
 
 ---
 
