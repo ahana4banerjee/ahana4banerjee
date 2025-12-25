@@ -53,9 +53,10 @@ Currently strengthening my core foundations in **DSA, DBMS, Operating Systems, a
 
 ## Featured Projects
 
-- **_FinLens_ — AI Personal Finance Tracker** — Automates expense tracking, receipt OCR, analytics, and smart insights using Gemini AI.
-- **_CareerLyze_ — AI Career Coach** — ATS-optimized resume builder, cover letter generator, trend analytics, and mock interview engine.
-- **_Project Inocula_ — Digital Immune System Against Misinformation** — Multi-agent AI platform for proactive detection and explanation of misinformation patterns.
+🔹 **[FinLens](https://github.com/ahana4banerjee/FinLens)** — AI-powered personal finance manager with receipt OCR, analytics & Gemini insights.  
+🔹 **[CareerLyze](https://github.com/ahana4banerjee/CareerLyze)** — AI career coach with ATS resume builder, cover letters & mock interviews.  
+🔹 **[Project Inocula](https://github.com/ahana4banerjee/Project-Inocula)** — Multi-agent system detecting misinformation using NLP + Gemini.
+
 
 ---
 
