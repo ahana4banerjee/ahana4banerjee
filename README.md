@@ -76,8 +76,11 @@ Currently strengthening my core foundations in **DSA, DBMS, Operating Systems, a
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahana4banerjee&show_icons=true&theme=tokyonight" width="48%"/>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=ahana4banerjee&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahana4banerjee&theme=tokyonight" width="38%"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahana4banerjee&theme=tokyonight" width="55%"/>
+
 </p>
+
 
 
 ---
