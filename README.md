@@ -27,7 +27,7 @@ My work spans across:
 - **FPGA Design, Microcontrollers & Digital Systems**
 - **Data Structures, System Design & Core CS Fundamentals**
 
-I focus on building **practical engineering solutions** — from intelligent web platforms to sensor-driven embedded systems and cyber-physical applications.
+I focus on building **practical engineering solutions** — from intelligent web platforms to sensor-driven embedded systems applications.
 
 ---
 
@@ -111,16 +111,16 @@ I focus on building **practical engineering solutions** — from intelligent web
 
 🔹 **[CareerLyze](https://github.com/ahana4banerjee/CareerLyze)** — AI career coach with ATS resume builder, cover letters & mock interviews.
 
-🔹 **Solar Water Purifier System** — Arduino-based purification system with TDS monitoring, temperature sensing & automated control.
+🔹 **[Wireless Sensor Network](https://github.com/ahana4banerjee/Wireless-Sensor-Network)** — Intelligent WSN platform featuring MQTT-based telemetry, FastAPI backend, React NOC dashboard, anomaly detection, predictive analytics, and explainable network health monitoring.
 
-🔹 **Predictive Ambulance Green Corridor Generator** — Traffic-aware signal coordination using FPGA logic, STM32 and intelligent routing.
+🔹 **[Metro Train Delay Prediction System](https://github.com/ahana4banerjee/metro-delay-prediction)** — A machine learning framework to predict Hyderabad Metro train delays using GTFS schedule data, realistic delay simulation, operational insights, and cross-validation on Indian Railways data.
 
 ---
 
 ## Currently Working On
 
-- 🚑 **Predictive Ambulance Green Corridor Generator**
-- 📡 **Wireless Sensor Network** — Multi-node sensing and communication platform
+- 🚑 **Predictive Ambulance Green Corridor Generator** — Traffic-aware signal coordination using FPGA logic, STM32 and intelligent routing.
+- 📡 **Wireless Sensor Network v2** — Multi-node sensing and communication platform
 - 🛡️ **Project Inocula** — AI-powered misinformation detection system
 
 ---
@@ -166,10 +166,8 @@ I focus on building **practical engineering solutions** — from intelligent web
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahana-4-banerjee)
-
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:banerjeeahana4@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-121013?style=flat&logo=vercel&logoColor=white)](https://portfolio-website-seven-roan-36.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-121013?style=flat&logo=vercel&logoColor=white)](https://ahanabanerjeeportfolio.vercel.app)
 
 ---
 
