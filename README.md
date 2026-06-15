@@ -144,7 +144,7 @@ I focus on building **practical engineering solutions** — from intelligent web
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahana4banerjee&theme=tokyonight" width="60%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ahana4banerjee&theme=tokyonight" width="60%"/>
 </p>
 
 <p align="center">
