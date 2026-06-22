@@ -119,7 +119,7 @@ I focus on building **practical engineering solutions** — from intelligent web
 
 ## Currently Working On
 
-- 🚑 **Predictive Ambulance Green Corridor Generator** — Traffic-aware signal coordination using FPGA logic, STM32 and intelligent routing.
+- 🚑 **[Predictive Ambulance Green Corridor Generator](https://github.com/ahana4banerjee/Predictive-Ambulance-Green-Corridor-Generator)** — Traffic-aware signal coordination using FPGA logic, STM32 and intelligent routing.
 - 📡 **[Wireless Sensor Network v2](https://github.com/ahana4banerjee/wireless-sensor-network)** — Multi-node sensing and communication platform
 - 🛡️ **[AI Diaster Orchestrator](https://github.com/ahana4banerjee/ai-disaster-orchastrator)** — AI-powered Intelligence & Decision Support Platform
 
