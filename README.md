@@ -140,7 +140,7 @@ I focus on building **practical engineering solutions** — from intelligent web
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahana4banerjee&show_icons=true&theme=tokyonight" width="48%"/>
 
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=ahana4banerjee&layout=donut&theme=tokyonight&hide=jupyter%20notebook" width="40%"/>
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=ahana4banerjee&layout=donut&theme=tokyonight&hide=html,css" width="40%"/>
 </p>
 
 <p align="center">
