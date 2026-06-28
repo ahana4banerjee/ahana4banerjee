@@ -109,8 +109,6 @@ I focus on building **practical engineering solutions** — from intelligent web
 
 🔹 **[FinLens](https://github.com/ahana4banerjee/FinLens)** — AI-powered personal finance manager with receipt OCR, analytics & Gemini insights.
 
-🔹 **[CareerLyze](https://github.com/ahana4banerjee/CareerLyze)** — AI career coach with ATS resume builder, cover letters & mock interviews.
-
 🔹 **[Wireless Sensor Network](https://github.com/ahana4banerjee/Wireless-Sensor-Network)** — Intelligent WSN platform featuring MQTT-based telemetry, FastAPI backend, React NOC dashboard, anomaly detection, predictive analytics, and explainable network health monitoring.
 
 🔹 **[Metro Train Delay Prediction System](https://github.com/ahana4banerjee/metro-delay-prediction)** — A machine learning framework to predict Hyderabad Metro train delays using GTFS schedule data, realistic delay simulation, operational insights, and cross-validation on Indian Railways data.
@@ -120,7 +118,6 @@ I focus on building **practical engineering solutions** — from intelligent web
 ## Currently Working On
 
 - 🚑 **[Predictive Ambulance Green Corridor Generator](https://github.com/ahana4banerjee/Predictive-Ambulance-Green-Corridor-Generator)** — Traffic-aware signal coordination using FPGA logic, STM32 and intelligent routing.
-- 📡 **[Wireless Sensor Network v2](https://github.com/ahana4banerjee/wireless-sensor-network)** — Multi-node sensing and communication platform
 - 🛡️ **[AI Diaster Orchestrator](https://github.com/ahana4banerjee/ai-disaster-orchastrator)** — AI-powered Intelligence & Decision Support Platform
 
 ---
@@ -138,9 +135,9 @@ I focus on building **practical engineering solutions** — from intelligent web
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahana4banerjee&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahana4banerjee&show_icons=true&theme=tokyonight" width="49%"/>
 
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=ahana4banerjee&layout=donut&theme=tokyonight&hide=html,css" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahana4banerjee&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" width="40%"/>
 </p>
 
 <p align="center">
