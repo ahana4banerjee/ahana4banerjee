@@ -145,7 +145,7 @@ I focus on building **practical engineering solutions** — from intelligent web
 </p>
 
 <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahana4banerjee&theme=tokyonight&v=1">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahana4banerjee&theme=tokyonight">
 </p>
 
 ---
