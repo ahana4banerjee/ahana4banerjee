@@ -8,12 +8,6 @@
   Building intelligent systems by combining AI, Full Stack Development, Embedded Systems, and Real-World Hardware.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahana4banerjee&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/badge/Open%20Source-GSSoC'25-blue" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Embedded-success" />
-</p>
-
 ---
 
 ## About Me
