@@ -129,7 +129,7 @@ I focus on building **practical engineering solutions** — from intelligent web
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahana4banerjee&show_icons=true&theme=tokyonight" width="49%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=ahana4banerjee&show_icons=true&theme=tokyonight" width="49%"/>
 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahana4banerjee&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&hide=html,css,ejs" width="40%"/>
 </p>
