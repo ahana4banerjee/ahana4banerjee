@@ -156,11 +156,23 @@ I enjoy working across different layers of technology — from understanding the
 
 ---
 
-## Contact
+## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahana-4-banerjee)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:banerjeeahana4@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-121013?style=flat&logo=vercel&logoColor=white)](https://ahanabanerjeeportfolio.vercel.app)
+I'm always interested in connecting with people working on AI research, emerging technologies, software engineering, and interdisciplinary projects.
 
----
+<p align="left">
+  <a href="https://linkedin.com/in/ahana-4-banerjee">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:banerjeeahana4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://ahanabanerjeeportfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Curiosity-driven. Research-oriented. Always building and learning.</i>
+</p>
 
