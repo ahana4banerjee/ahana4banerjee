@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ahana 👋</h1>
 
 <p align="center">
-  ECE Student | Software + Hardware Engineer | AI & Embedded Systems
+  ECE Student | AI/ML Enthusiast | Software + Hardware Engineer
 </p>
 
 <p align="center">
@@ -12,16 +12,25 @@
 
 ## About Me
 
-I'm an Electronics and Communication Engineering student who enjoys building **end-to-end systems that bridge software intelligence with hardware integration**.
+I'm an Electronics and Communication Engineering student pursuing an integrated B.Tech + M.Tech degree at JNTUH, Hyderabad.
 
-My work spans across:
+I enjoy understanding how technology works, experimenting with new ideas, and building systems that solve real-world problems.
 
-- **AI-powered applications & full-stack development**
-- **Embedded Systems, IoT & Wireless Sensor Networks**
-- **FPGA Design, Microcontrollers & Digital Systems**
-- **Data Structures, System Design & Core CS Fundamentals**
+My interests and experience span across:
 
-I focus on building **practical engineering solutions** — from intelligent web platforms to sensor-driven embedded systems applications.
+- **Artificial Intelligence & Machine Learning** – Predictive modeling, deep learning, neural networks, and intelligent applications.
+
+- **Computer Vision & Generative AI** – Exploring learning-based approaches, generative models, and emerging AI techniques.
+
+- **Software Engineering** – Full-stack development, backend architecture, APIs, and scalable applications.
+
+- **Embedded Systems & IoT** – Microcontrollers, sensor integration, wireless sensor networks, and intelligent monitoring systems.
+
+- **Semiconductor Technology** – Semiconductor devices, CMOS circuits, transistor behavior, and semiconductor physics.
+
+- **Applied Research** – Experimentation, data-driven problem solving, model evaluation, and interdisciplinary research.
+
+I enjoy working across different layers of technology — from understanding the underlying principles to developing and deploying functional systems.
 
 ---
 
@@ -60,9 +69,12 @@ I focus on building **practical engineering solutions** — from intelligent web
 
 #### AI / ML
 
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-1A73E8?logo=google&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?logo=opencv&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8E75B2?logo=google&logoColor=white)
+![ANN](https://img.shields.io/badge/ANN-Neural_Networks-007ACC)
+![RNN](https://img.shields.io/badge/RNN-Recurrent_Neural_Networks-2E8B57)
 
 ---
 
@@ -87,15 +99,6 @@ I focus on building **practical engineering solutions** — from intelligent web
 ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
----
-
-## Experience & Work
-
-- Built and deployed **AI-powered full-stack platforms** integrating LLMs for real-world applications
-- Developed **embedded and hardware-based systems** using sensors, automation, and microcontrollers
-- Designed a **Smart Microgrid System (SIH Project)** with intelligent energy management
-- Worked on **complete system design** — data processing → AI → deployment → hardware integration
-- Open Source Contributor with multiple merged PRs **(GSSoC'25)**
 
 ---
 
@@ -146,11 +149,10 @@ I focus on building **practical engineering solutions** — from intelligent web
 
 ## Currently Learning
 
-- Advanced Data Structures & Algorithms
-- System Design
-- FPGA & Digital Systems
+- Deep Learning Frameworks
+- Computer Vision & Generative Modelling
 - Embedded AI
-- Distributed Wireless Sensor Networks
+- Semiconductor Devices & CMOS Technology
 
 ---
 
